@@ -30,5 +30,5 @@ To run this project locally:
 
   ```bash
   git clone https://github.com/amnazahid99/portfolio-website.git
-cd portfolio-website
+  cd portfolio-website
   ```
