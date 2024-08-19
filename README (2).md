@@ -32,3 +32,14 @@ To run this project locally:
   git clone https://github.com/amnazahid99/portfolio-website.git
   cd portfolio-website
   ```
+
+### Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+### Contact
+If you have any questions or would like to discuss potential collaborations, please don't hesitate to reach out!
+
+- **Email**: amnazahid399@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/amna-zahid-8095aa258/
+
+Thanks a lot for visiting my portfolio!
